@@ -1,4 +1,3 @@
-# Bottle-Detection-Marine-Robot
 # 🌊 Bottle Detection Marine Robot  
 
 Welcome to the **Bottle Detection Marine Robot** project repository! This project demonstrates an innovative solution for environmental sustainability by using a marine robot capable of detecting and collecting plastic bottles from water bodies.  
@@ -43,62 +42,6 @@ This project was developed for the **Forum DSI** conference, a globally recogniz
 - **Model**: YOLOv5 with custom-trained weights  
 
 ---
-
-Here’s a detailed structure and content outline for your GitHub repository to showcase your project:
-
-Repository Name: Bottle-Detection-Marine-Robot
-README.md Content
-markdown
-Copier le code
-# 🌊 Bottle Detection Marine Robot  
-
-Welcome to the **Bottle Detection Marine Robot** project repository! This project demonstrates an innovative solution for environmental sustainability by using a marine robot capable of detecting and collecting plastic bottles from water bodies.  
-
----
-
-## 🎯 **Project Overview**  
-
-This project was developed for the **Forum DSI** conference, a globally recognized event for innovation and technology. The robot uses **machine learning** and **computer vision** to identify bottles in the water and performs the following tasks:  
-
-1. **Detection**: Recognizes plastic bottles using a trained machine learning model.  
-2. **Navigation**: Moves toward the detected bottle.  
-3. **Grabbing**: Collects and stores the bottle.  
-
----
-
-## 🚀 **Features**  
-
-- **Real-Time Object Detection**:  
-  Utilizes a trained YOLOv5 model to detect bottles with high accuracy.  
-
-- **Autonomous Navigation**:  
-  The robot adjusts its movement dynamically to approach detected objects.  
-
-- **Grabbing Mechanism**:  
-  Equipped with a mechanical arm to securely grab and store bottles.  
-
-- **Sustainability Focused**:  
-  Aims to reduce pollution in water bodies by automating waste collection.  
-
----
-
-## 🛠️ **Tech Stack**  
-
-- **Programming Languages**: Python, C++  
-- **Frameworks**: OpenCV, PyTorch  
-- **Hardware**:  
-  - Raspberry Pi for processing  
-  - Ultrasonic sensors for obstacle detection  
-  - Servo motors for grabbing mechanism  
-  - Camera for real-time detection  
-- **Model**: YOLOv5 with custom-trained weights  
-
----
-##🚧 Future Improvements
-Enhance the model to detect additional types of trash (e.g., metal, paper).
-Implement solar charging for sustainable power supply.
-Scale up the design for larger water bodies.
-
 
 ## 📂 **Repository Structure**  
 
