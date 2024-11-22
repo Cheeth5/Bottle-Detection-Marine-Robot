@@ -55,6 +55,5 @@ Bottle-Detection-Marine-Robot/
 ├── docs/                  # Detailed project documentation
 ├── LICENSE                # Licensing information
 └── README.md              # Project description
-
+```
 ![465795933_571979801856024_1395584290971270809_n](https://github.com/user-attachments/assets/c5b493be-c4f0-438c-ae2c-71dcb8b42b53)
-
